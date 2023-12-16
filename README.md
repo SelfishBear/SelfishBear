@@ -15,6 +15,10 @@
 <img align="left" alt="HTML" width="70px" height="70px"src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/120px-HTML5_logo_and_wordmark.svg.png"/>
 <img align="left" alt="CSS" width="70px" height="70px"src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/180px-CSS3_logo_and_wordmark.svg.png"/>
 <img align="left" alt="JS" width="70px" height="70px"src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/360px-Unofficial_JavaScript_logo_2.svg.png"/>
+</br>
+</br>
+</br>
+[![https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/225px-Steam_icon_logo.svg.png](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/225px-Steam_icon_logo.svg.png)](https://steamcommunity.com/profiles/76561198941862913/)
 
 
 
