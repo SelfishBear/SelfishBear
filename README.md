@@ -17,8 +17,8 @@
 <img align="left" alt="JS" width="70px" height="70px"src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/360px-Unofficial_JavaScript_logo_2.svg.png"/>
 
 
-|<a href= "https://steamcommunity.com/profiles/76561198941862913/">
-|<img align ="left" alt="Steam" width="26px" src="https://upload.|wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/225px-Steam_icon_logo.svg.png"/>
+<a href= "https://steamcommunity.com/profiles/76561198941862913/">
+<img align ="left" alt="Steam" width="26px" src="https://upload.|wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/225px-Steam_icon_logo.svg.png"/>
 </a>
 <----HOW YOU CAN CONTACT WITH ME
 
