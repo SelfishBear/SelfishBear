@@ -23,9 +23,8 @@
 <a href= "https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox">
 <img align ="left" alt="Steam" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/768px-Gmail_Icon_%282013-2020%29.svg.png"/>
 </a>
-<----HOW 
-<----YOU CAN CONTACT WITH ME
-<----
+<----HOW YOU CAN CONTACT WITH ME
+
 
 
 
