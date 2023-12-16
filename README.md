@@ -18,7 +18,10 @@
 </br>
 </br>
 </br>
-[![https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/225px-Steam_icon_logo.svg.png](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/225px-Steam_icon_logo.svg.png)](https://steamcommunity.com/profiles/76561198941862913/)
+<img align ="left" alt="YouTube" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/225px-Steam_icon_logo.svg.png"/>[steam]
+
+
+[steam]: https://steamcommunity.com/profiles/76561198941862913/
 
 
 
