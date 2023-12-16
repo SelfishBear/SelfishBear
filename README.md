@@ -9,6 +9,10 @@ Skills:
 
 <img align="left" alt="Unity" width="70px" height="70px" src="https://avatars.githubusercontent.com/u/426196?s=48&v=4"/>
 <img align="left" alt="C#" width="70px" height="70px"src="https://iconape.com/wp-content/png_logo_vector/c.png"/>
+<div style="background: linear-gradient(to right, #ff7e5f, #feb47b); font-family: 'Your Font', sans-serif; font-size: 24px; font-weight: bold; padding: 10px; color: white; text-align: center;">
+    WELCOME
+</div>
+
 
 
 
