@@ -3,7 +3,7 @@
 
 ### 😎I'm a C# Unity Developer!😎
 
-### 🤩I like: communicate with each other and get new knowledges from everything.For me the best is to take the best result in our hard work.🤩
+### 🤩I like: communicate with each other and get new knowledges from everything. For me the best is to take the best result in our hard work.🤩
 
 <img src="https://www.icegif.com/wp-content/uploads/2023/05/icegif-796.gif" width="1000" height="500px">
 
