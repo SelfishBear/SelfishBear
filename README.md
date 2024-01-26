@@ -12,9 +12,8 @@
 <img align="left" alt="Unity" width="70px" height="70px" src="https://avatars.githubusercontent.com/u/426196?s=48&v=4"/>
 <img align="left" alt="C#" width="70px" height="70px"src="https://iconape.com/wp-content/png_logo_vector/c.png"/>
 <img align="left" alt="C++" width="70px" height="70px"src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/320px-ISO_C%2B%2B_Logo.svg.png"/>
-<img align="left" alt="HTML" width="70px" height="70px"src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/120px-HTML5_logo_and_wordmark.svg.png"/>
-<img align="left" alt="CSS" width="70px" height="70px"src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/180px-CSS3_logo_and_wordmark.svg.png"/>
-<img align="left" alt="JS" width="70px" height="70px"src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/360px-Unofficial_JavaScript_logo_2.svg.png"/>
+<img align="left" alt="Unreal" width="70px" height="70px"src="https://download.logo.wine/logo/Unreal_Engine/Unreal_Engine-Logo.wine.png"/>
+
 
 
 <a href= "https://steamcommunity.com/profiles/76561198941862913/">
