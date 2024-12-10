@@ -3,16 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=selfishbear&label=Profile%20views&color=0e75b6&style=flat" alt="selfishbear" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=selfishbear" alt="selfishbear" /></a> </p>
-
-- 🔭 I’m currently working on **Horror**
-
-- 💬 Ask me about **pointers**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/daniil bilenko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniil bilenko" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/danil16013" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="danil16013" height="30" width="40" /></a>
+  <a href= "https://steamcommunity.com/profiles/76561198941862913/">
+<img align ="left" alt="Steam" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/225px-Steam_icon_logo.svg.png"/>
+</a>
+<a href= "https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox">
+<img align ="left" alt="Steam" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/768px-Gmail_Icon_%282013-2020%29.svg.png"/>
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -24,13 +25,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=selfishbear&" alt="selfishbear" /></p>
 
-<a href= "https://steamcommunity.com/profiles/76561198941862913/">
-<img align ="left" alt="Steam" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/225px-Steam_icon_logo.svg.png"/>
-</a>
-<a href= "https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox">
-<img align ="left" alt="Steam" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/768px-Gmail_Icon_%282013-2020%29.svg.png"/>
-</a>
-<----HOW YOU CAN CONTACT WITH ME
+
 
 
 
