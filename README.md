@@ -1,20 +1,28 @@
-# 👋WELCOME👋
-## 😊Hello, I'm SelfishBear😊
+<h1 align="center">Hi 👋, I'm Daniil</h1>
+<h3 align="center">GAMEDEV</h3>
 
-### 😎I'm a GameDeveloper/Programmer!😎
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=selfishbear&label=Profile%20views&color=0e75b6&style=flat" alt="selfishbear" /> </p>
 
-### 🤩I like: communicate with each other and get new knowledges from everything. For me the best is to take the best result in our hard work.🤩
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=selfishbear" alt="selfishbear" /></a> </p>
 
-<img src="https://www.icegif.com/wp-content/uploads/2023/05/icegif-796.gif" width="1000" height="500px">
+- 🔭 I’m currently working on **Horror**
 
-### 😁Skills:😁
+- 💬 Ask me about **pointers**
 
-<img align="left" alt="Unity" width="70px" height="70px" src="https://avatars.githubusercontent.com/u/426196?s=48&v=4"/>
-<img align="left" alt="C#" width="70px" height="70px"src="https://iconape.com/wp-content/png_logo_vector/c.png"/>
-<img align="left" alt="C++" width="70px" height="70px"src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/320px-ISO_C%2B%2B_Logo.svg.png"/>
-<img align="left" alt="Unreal" width="70px" height="70px"src="https://c0.klipartz.com/pngpicture/302/260/gratis-png-unreal-engine-4-game-conference-conference-unreal.png"/>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/daniil bilenko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniil bilenko" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/danil16013" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="danil16013" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=selfishbear&show_icons=true&locale=en&layout=compact" alt="selfishbear" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=selfishbear&show_icons=true&locale=en" alt="selfishbear" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=selfishbear&" alt="selfishbear" /></p>
 
 <a href= "https://steamcommunity.com/profiles/76561198941862913/">
 <img align ="left" alt="Steam" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/225px-Steam_icon_logo.svg.png"/>
